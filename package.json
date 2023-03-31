@@ -8,9 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JCuenca17/db.json.git"
+    "url": "git+https://github.com/JCuenca17/db_json.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCuenca17/db_json/issues"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
 }
