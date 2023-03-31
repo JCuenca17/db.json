@@ -1,0 +1,16 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "db de productos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCuenca17/db.json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
